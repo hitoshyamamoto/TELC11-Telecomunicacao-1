@@ -7,7 +7,7 @@ pkg load signal
 %Configuracao e parametros iniciais
 fs = 10^6;
 t = [0:1/fs:0.001];
-A = 1;
+A = 2;
 f = 100*10^3;
 
 %Dominio do tempo
